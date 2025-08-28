@@ -7,10 +7,12 @@ Code, Compile, Run and Debug online from anywhere in world.
 
 *******************************************************************************/
 #include <iostream>
+using namespace std;
 
 int main()
 {
-    std::cout<<"Hello hello";
+    cout<<"Hello hello";
+    cout<<"¿Cómo estás?";
 
     return 0;
 }
